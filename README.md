@@ -1,6 +1,6 @@
 **DHCP in LAN**
 
-(images/DHCP_in_LAN.png)
+![DHCP_in_LAN](images/DHCP_in_LAN.png)
 
 
 **Router0**
