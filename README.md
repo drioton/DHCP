@@ -17,6 +17,8 @@ exit
 255.255.255.0
 192.168.0.1
 ```
+![Preparation](images/DHCP PC0 static IP.png.png)
+
 **PC1**
 ```
 192.168.0.3
