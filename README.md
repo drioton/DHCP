@@ -63,6 +63,7 @@ ip dhcp excluded-address 192.168.0.2 192.168.0.100
 exit
 ```
 ![DHCP_PC0_requesting_IP]images/DHCP_PC0_requesting_IP.png
+
 ![DHCP_excluded-addresses]images/DHCP_excluded-addresses.png
 
 
