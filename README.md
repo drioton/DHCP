@@ -1,5 +1,8 @@
 **DHCP in LAN**
 
+(images/DHCP_in_LAN.png)
+
+
 **Router0**
 ```
 enable
