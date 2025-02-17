@@ -57,13 +57,15 @@ dns-server 9.9.9.9
 exit
 ```
 9.9.9.9 It can also be a different DNS for example google
-/Es kann auch eine andere DNS (for example google) sein
+/Es kann auch eine andere DNS (zum Beispiele google) sein
 ```
 ip dhcp excluded-address 192.168.0.2 192.168.0.100
 exit
 ```
 ![DHCP_PC0_requesting_IP]images/DHCP_PC0_requesting_IP.png
 ![DHCP_excluded-addresses]images/DHCP_excluded-addresses.png
+
+
 **Test**
 ```
 R1Left#show ip dhcp binding 
